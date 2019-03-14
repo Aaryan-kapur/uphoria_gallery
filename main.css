@@ -1,0 +1,29 @@
+.artist { 
+    height: 900px 
+  }
+  body{
+      background-color: black;
+      font-family: 'Raleway', sans-serif;
+
+  }
+.slider{
+    margin-top:6%;
+}
+@media screen and (max-width: 992px) {
+    .slider{
+        margin-top:60%;
+    }
+  
+  }
+  h1{
+    color:white; 
+    font-size: 100px;
+    margin:1%;
+    margin-left:2%;
+    margin-bottom:-2%
+  }
+  p{
+      color:white;
+     font-size: 2em;
+     text-align: right;
+  }
